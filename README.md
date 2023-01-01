@@ -32,7 +32,6 @@ Abseil is not meant to be a competitor to the standard library; we've
 just found that many of these utilities serve a purpose within our code
 base, and we now want to provide those resources to the C++ community as
 a whole.
-
 <a name="quickstart"></a>
 ## Quickstart
 
